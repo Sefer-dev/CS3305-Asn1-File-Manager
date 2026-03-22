@@ -1,6 +1,6 @@
 # File Manager — wxWidgets Desktop Application
 
-A native Windows file manager built with **C++17** and **wxWidgets**, featuring directory browsing, file operations (create, open, rename, delete), clipboard functionality (copy, cut, paste), and keyboard shortcuts. Built for CS 3307 — Software Engineering at Western University.
+A native Windows file manager built with **C++17** and **wxWidgets**, featuring directory browsing, file operations (create, open, rename, delete), clipboard functionality (copy, cut, paste), and keyboard shortcuts. Built for CS 3307 — Object Oriented Design and Analysis at Western University.
 
 ## Table of Contents
 

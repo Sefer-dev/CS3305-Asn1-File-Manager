@@ -1,0 +1,20 @@
+# Build outputs
+Debug/
+Release/
+x64/
+*.obj
+*.ilk
+*.pdb
+*.exe
+*.log
+*.idb
+*.tlog/
+*.recipe
+*.applocal.log
+*.lastbuildstate
+
+# Visual Studio user-specific files
+*.vcxproj.user
+*.suo
+*.user
+.vs/
